@@ -63,4 +63,4 @@ Mahdollinen malli voisi esimerkiksi ennustaa tulevaa CPU:n käyttöä tai luokit
 
 ## AI Tool Usage
 
-Ohjelman kehittämisessä on käytetty AI-työkalua ChatGPT:tä koodin kirjoittamisen ja kehittämisen tukena. ChatGPT:tä on käytetty myös tekstien kääntämiseen englannin ja suomen kielelle.
+The AI tool ChatGPT was used to support the writing and development of the code, as well as to translate texts into English and Finnish.
