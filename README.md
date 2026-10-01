@@ -40,4 +40,27 @@ When **Start** is pressed again, the previous data is cleared and a new data col
 
 ## Video Demonstration
 
-[Video demonstration](PASTE_VIDEO_LINK_HERE)
+[Video demonstration](https://youtu.be/LHjtmtJ_Qcg)
+
+## Data collection and possible machine learning
+
+Ohjelma kerää tietoa tietokoneen suorituskyvystä kerran sekunnissa.
+
+Kerättävät sarakkeet ovat:
+
+* `seconds` – kuinka monta sekuntia tiedonkeruu on kestänyt
+* `running_processes` – käynnissä olevien prosessien määrä
+* `cpu_percent` – prosessorin käyttö prosentteina
+* `ram_mb` – käytetyn RAM-muistin määrä megatavuina
+* `ram_percent` – RAM-muistin käyttö prosentteina
+* `disk_mbps` – levyn käyttö megatavuina sekunnissa
+
+Näiden tietojen avulla voidaan tarkastella tietokoneen kuormitusta ja eri resurssien käyttöä. Dataa voidaan myöhemmin käyttää koneoppimismallin opettamiseen.
+
+Mahdollinen malli voisi esimerkiksi ennustaa tulevaa CPU:n käyttöä tai luokitella tietokoneen kuormituksen matalaksi, keskitasoiseksi tai korkeaksi.
+
+---
+
+## AI Tool Usage
+
+Ohjelman kehittämisessä on käytetty AI-työkalua ChatGPT:tä koodin kirjoittamisen ja kehittämisen tukena. ChatGPT:tä on käytetty myös tekstien kääntämiseen englannin ja suomen kielelle.
