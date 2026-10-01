@@ -40,7 +40,7 @@ When **Start** is pressed again, the previous data is cleared and a new data col
 
 ## Video Demonstration
 
-[Video demonstration](https://youtu.be/LHjtmtJ_Qcg)
+[YouTube](https://youtu.be/LHjtmtJ_Qcg)
 
 ## Data collection and possible machine learning
 
