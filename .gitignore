@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.idea/
+.vscode/
+
+# Generated CSV files
+*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
